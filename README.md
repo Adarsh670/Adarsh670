@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-stack Web Developer at Printresort</h3>
 
 <div>
- <p>About me..<p>
+ <h2>About me..<h2>
 <p>An enthusiastic and self-driven aspiring full-stack developer from New Delhi, India, eager to embrace challenging opportunities. Committed to leveraging my skills and knowledge to create impactful solutions while fostering both personal and professional growth. Dedicated to contributing to organizational success and aligning with its vision for innovation and excellence.</p> 
 </div>
 
